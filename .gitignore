@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Learning Progress Tracker (Java)/task/build/
+/Learning Progress Tracker (Java)/task/out/
+/Learning Progress Tracker (Java)/task/out/production/classes/
+/Topics/hashCode() and equals()/Complex numbers/out/
+/Topics/hashCode() and equals()/Complex numbers/out/production/classes/
+/Topics/hashCode() and equals()/Theory/out/
+/Topics/hashCode() and equals()/Theory/out/production/classes/
+/Topics/Unit testing with JUnit/Failed assertion/out/
+/Topics/Unit testing with JUnit/Failed assertion/out/production/classes/
+/Topics/Unit testing with JUnit/Theory/out/
+/Topics/Unit testing with JUnit/Theory/out/production/classes/
